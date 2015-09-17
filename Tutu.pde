@@ -1,3 +1,5 @@
+// Aurélien Conil Summerlab 2014
+
 Perso[] p = new Perso[2];   // personnage à gauche , personnage à droite
 int nombrePerso = 15;        // nombre d'avatar en photos(fichiers+1)
 boolean isMenu;
